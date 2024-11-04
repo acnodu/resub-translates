@@ -1,5 +1,9 @@
 {
   "fr": {
+    "changeLanguageTitle": "Changer de langue",
+    "changeLanguageFR": "Français",
+    "changeLanguageEN": "English",
+    "headerLogin": "Se connecter",
     "welcomeTitle": "Bienvenue sur resub",
     "welcomeSubTitle": "Noubliez plus jamais de soutenir votre streamer préféré grace au Twitch Prime, resub s'occupe de tout pour vous !",
     "welcomeButton": "C'est parti !",
@@ -26,12 +30,13 @@
     "footerQuickLinks": "Liens Rapides",
     "linkHowItsWorks": "Comment ça marche",
     "linkFeatures": "Fonctionnalités",
-    "linkFAQ": "FAQ",
-    "changeLanguageTitle": "Changer de langue",
-    "changeLanguageFR": "Français",
-    "changeLanguageEN": "English"
+    "linkFAQ": "FAQ"
   },
   "en": {
+    "changeLanguageTitle": "Change language",
+    "changeLanguageFR": "Français",
+    "changeLanguageEN": "English",
+    "headerLogin": "Login",
     "welcomeTitle": "Welcome to resub",
     "welcomeSubTitle": "Never again forget to support your favorite streamer with Twitch Prime, resub takes care of everything for you!",
     "welcomeButton": "Here we go!",
@@ -58,9 +63,6 @@
     "footerQuickLinks": "Quick Links",
     "linkHowItsWorks": "How it works",
     "linkFeatures": "Features",
-    "linkFAQ": "FAQ",
-    "changeLanguageTitle": "Change language",
-    "changeLanguageFR": "Français",
-    "changeLanguageEN": "English"
+    "linkFAQ": "FAQ"
   }
 }
